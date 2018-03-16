@@ -1,0 +1,26 @@
+
+//凑凑网站首页
+/alidata/www/phpwind/coucou/Application/Home/View/Index
+//修改 移动
+/alidata/www/phpwind/coucou/Application/Home/View/Activity
+
+付费投票++微博
+/alidata/www/phpwind/share/coucou/Application/Home/View/Miss
+
+点赞活动页面
+/alidata/www/phpwind/share/coucou/Application/Home/View
+
+后台管理页面
+/alidata/www/phpwind/coucou/Application/Admin/View/Manage
+添加新闻咨询
+/alidata/www/phpwind/coucou/Application/Admin/View/AddNews
+
+APP内嵌页面
+/alidata/www/phpwind/coucou/Application/Home/View/Activity
+https://www.coucouchina.com/home/Activity/modify.html?pid=5361&status=1&state=0&uid=322
+start: 
+end:1512057600
+//微博
+http://share.coucouchina.com/Home/weibo/wb.html?pid=5361
+
+/alidata/www/phpwind/coucou/Application/Home/View/Activity
